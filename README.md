@@ -10,9 +10,9 @@
 
 - 功能
 
-  1、多组件渲染（react）
-  2、state状态更新（react）
-  3、map方法（es6）
-  4、Promise对象（es6）
-  5、子级组件更新数据（react）
+  1、多组件渲染（react）  
+  2、state状态更新（react）  
+  3、map方法（es6）  
+  4、Promise对象（es6）  
+  5、子级组件更新数据（react）  
   6、动态生成id（uuid）

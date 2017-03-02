@@ -1,6 +1,6 @@
 # ReactDom
 
-这是一个React的demo集合，目前使用的技术是React + es6 + webpack，后期要加上flux和debux，我会一一添加到当前项目中
+这是一个React的demo集合，目前使用的技术是React + es6 + webpack，后期要加上flux和redux，我会一一添加到当前项目中
 
 ## demo1
 
